@@ -4,13 +4,14 @@
 [Portfolio](https://tylerhooks.com/)      
 [Linkedin](https://www.linkedin.com/in/tyler-hooks-9214abb5/)
 
- 🔭 I’m currently working on ...
-     *A REST API Country switcher [(check it out here)](https://github.com/tylerhooks1/Country-API-with-color-switcher)
+ 🔭 I’m currently working on ... 
+ + A REST API Country switcher 
+     [(check it out here)](https://github.com/tylerhooks1/Country-API-with-color-switcher)
      
     
   🌱 I’m currently learning ...
-      *React 
-      *REST APIs
+  + React 
+  + REST APIs
   
 <!--
 **tylerhooks1/tylerhooks1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
