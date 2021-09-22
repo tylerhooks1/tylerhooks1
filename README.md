@@ -1,5 +1,5 @@
 ### Hello!👋 My name is Tyler Hooks. 
-####I am a Software Engineer with over two years of experience. I have interests in React Development and UI Engineering. Here, you can find information on projects I'm working on and how I'm growing my skillset as a Front End developer.
+#### I am a Software Engineer with over two years of experience. I have interests in React Development and UI Engineering. Here, you can find information on projects I'm working on and how I'm growing my skillset as a Front End developer.
 [Portfolio](https://tylerhooks.com/)      
 [Linkedin](https://www.linkedin.com/in/tyler-hooks-9214abb5/)
 
