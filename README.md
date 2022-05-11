@@ -1,5 +1,5 @@
 ### Hello!👋  
-#### I'm Tyler, UX Engineer with interests in React Development and prototyping. Here, you can find information on projects I'm working on and how I'm growing my skillset as a UX professional.
+#### I'm Tyler, a UX Engineer with interests in React Development and prototyping. Here, you can find information on projects I'm working on and how I'm growing my skillset as a UX professional.
 [Portfolio](https://tylerhooks.com/)      
 [Linkedin](https://www.linkedin.com/in/tyler-hooks-9214abb5/)
 
