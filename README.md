@@ -1,5 +1,5 @@
-### Hello!👋 My name is Tyler Hooks. 
-#### I am a Software Engineer with over two years of experience. I have interests in React Development and UI Engineering. Here, you can find information on projects I'm working on and how I'm growing my skillset as a Front End developer.
+### Hello!👋  
+#### I'm Tyler, UX Engineer with interests in React Development and prototyping. Here, you can find information on projects I'm working on and how I'm growing my skillset as a UX professional.
 [Portfolio](https://tylerhooks.com/)      
 [Linkedin](https://www.linkedin.com/in/tyler-hooks-9214abb5/)
 
@@ -9,8 +9,8 @@
      
     
   🌱 I’m currently learning ...
-  + React 
-  + REST APIs
+  + TypeScript
+  + REST APIs & GraphQL
   
 <!--
 **tylerhooks1/tylerhooks1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
