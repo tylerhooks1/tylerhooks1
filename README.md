@@ -6,6 +6,7 @@
  🔭 I’m currently working on ... 
  + A REST API Country switcher 
      [(check it out here)](https://github.com/tylerhooks1/Country-API-with-color-switcher)
+ + Turning JS Framework 
      
     
   🌱 I’m currently learning ...
